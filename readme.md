@@ -7,7 +7,7 @@ Una herramienta práctica para convertir monedas al instante usando tasas de cam
 - Muestra el valor actualizado al momento (¡sin manuales!)
 - Diseño simple y fácil de usar
 
-## 🚀 Cómo usarlo
+##  Cómo usarlo
 1. **Ingresa la cantidad** en el primer cuadro
 2. **Elige tu moneda** en el menú superior
 3. **Selecciona a qué moneda** quieres convertir
